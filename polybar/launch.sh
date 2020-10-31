@@ -1,0 +1,1 @@
+/home/aw/.config/polybar/launch.sh

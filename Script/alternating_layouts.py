@@ -1,0 +1,1 @@
+/home/aw/.config/i3/alternating_layouts.py
